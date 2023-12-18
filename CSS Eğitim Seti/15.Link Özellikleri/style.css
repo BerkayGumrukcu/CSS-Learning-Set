@@ -1,0 +1,31 @@
+/* ! :link ilk halidir */
+/* a:link{
+    color: rgb(184, 97, 97);
+    text-decoration: none;
+/* }  Aktifleşmiyor Denenecek. */
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+/* ! a:hover linkin üzerine gelindiğinde. */
+a:hover{
+    color: orange;
+}
+
+/* ! a:active linke tıkladıktan sonra.*/
+a:active{
+    color: greenyellow;
+    background-color: antiquewhite;
+}
+
+/* ! a:visited link ziyaret edildikten sonra */
+a:visited{
+    color: rgb(192, 14, 215);
+}
+
+/* ! Ziyaret edilmiş linkin üzerine geldiğinde. */ 
+a:visited:hover{
+    color: orange;
+}

@@ -1,0 +1,17 @@
+/* 
+
+*{} Tüm hepsi
+p{} --> Paragraf elementleri
+p,h3{} --> Paragraf ve H3 elementleri
+div p{} --> Div elementinin içindeki tüm paragraflar.
+div>p{} --> Annesi div olan tüm p elementleri
+div>p:first-child --> Annesi div olan  p elementlerimin ilk çocuğunu seç.
+div>p:last-child --> Annesi div olan  p elementlerimin olan son çocuğunu seç.
+
+
+
+
+
+
+
+*/

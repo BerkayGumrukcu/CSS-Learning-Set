@@ -1,0 +1,34 @@
+table{
+    width: 600px;
+    height: 600px;
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 35px;
+    }
+
+#veriler .main{
+    color: red;
+}
+
+#veriler th{
+    background-color: bisque;
+    color: green;
+}
+
+#veriler tr:hover{
+    background-color: black;
+    color: white;
+    transition: all ease-in-out 0.5s;
+}
+
+#veriler tr:nth-child(odd){
+    background-color: rgb(212, 212, 212);
+}
+
+#veriler tr:nth-child(odd):hover{
+    background-color:black ;
+    color: white;
+}
