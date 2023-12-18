@@ -1,0 +1,33 @@
+.kutu{
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+    border: dotted 7px orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kutu2{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 32px;
+}
+
+
+.yazi{
+    text-align: center;
+    font-size: 32px;
+}
+
+.yazi a{
+    text-decoration: none;
+    color: white;
+}

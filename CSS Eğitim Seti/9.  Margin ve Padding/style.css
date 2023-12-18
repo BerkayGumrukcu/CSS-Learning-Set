@@ -1,0 +1,27 @@
+.kutu{
+    background-color: lightblue;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+}
+
+.kutu2{
+    background-color: blanchedalmond;
+    width: 250px;
+    height: 300px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.navbar{
+    background-color: blueviolet;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.navbar li{
+    padding-bottom: 10px;
+}
