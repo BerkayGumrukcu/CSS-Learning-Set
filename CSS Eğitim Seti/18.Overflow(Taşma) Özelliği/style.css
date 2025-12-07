@@ -2,9 +2,11 @@
     background-color: grey;
     width: 300px;
     height: 300px;
+    overflow : scroll;
 }
 
 /* ! Default olarak overflow: visible; gelmektedir. Görünür anlamındadır. */
 /* ! overflow: hidden; taşan kısımları gizleyeceğini belirtir. */
 /* ! overflow: scroll; taşan kısmın görülebilmesi için bir scrollbar ekler. */
+
 /* ! overflow: auto; scrolla benzer bir yapıdır ancak gerektiği zaman gözükür. */
